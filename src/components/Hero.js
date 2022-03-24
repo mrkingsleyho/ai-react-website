@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaDatabase, FaAsterisk, FaAccusoft, } from 'react-icons/fa'
 import './HeroStyles.css'
-import ai from '../assest/ai.png'
+import ai from '../assets/ai.png'
 
 const Hero = () => {
     return (
