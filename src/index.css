@@ -7,9 +7,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
 
 :root {
-  --primary: rgb(255, 255, 0);
-  --secondary: rgb(252, 252, 79);
-  --darkgrey: #22262a;
+  --primary: rgb(2, 214, 66);
+  --secondary: rgb(153, 250, 151);
+  --tertiary: #0c0b0b;
   --lightgrey: #d3d3d3;
   --grey: #808080;
 }
