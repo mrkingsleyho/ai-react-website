@@ -5,4 +5,4 @@
   <li> React Icons </li>
 </ul>
 
-![image](https://user-images.githubusercontent.com/94074831/160018817-9f5df2ab-e280-4a2e-bad0-34cf90bc3564.png)
+![image](https://user-images.githubusercontent.com/94074831/160635087-0e7d926c-2b86-427c-b00b-5432a2bfcc87.png)
